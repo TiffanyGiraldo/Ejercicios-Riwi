@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio</title>
+</head>
+<body style="background-image: url(https://images.alphacoders.com/132/1327844.png);background-repeat: no-repeat; background-size: cover;">
+<center>
+    <tr>
+        <td> <h1 style="  color: azure;">Portafolio Tiffany</h1> </td>
+    </tr>
+
+    <table style="width: 1000px;">
+        <br>
+        <tr>
+            <td style="width: 500px; color: azure;">
+            <a target ="_blank" href="https://tiffanygiraldo.github.io/Ejercicios-Riwi/Ejercicio1.html">
+                <img width="100%" src="./imginicio.png"></a>
+            <h4>Pagina inicio</h4>
+            <p>lo que se hizo</p>
+            </td>
+        
+        
+            <td style="width: 500px; color: azure;">
+            <img width="100%" src="./imghv.png">
+            <h4>Hoja de vida</h4>
+            <p>como se hizo</p>
+        
+        </tr>
+</center>
+</body>
+</table>
+</html>
